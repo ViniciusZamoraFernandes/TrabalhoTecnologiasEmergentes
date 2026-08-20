@@ -143,6 +143,7 @@
       https://portalprofessor06082005.ai.studio
 
 8 - Nome e RA de todos os alunos que participaram.
+
    Vinicius Zamora Fernandes.  RA: 23003800-2
    
    Leonardo Enz Pazin.         RA: 23011726-2
