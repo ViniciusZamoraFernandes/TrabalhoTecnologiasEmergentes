@@ -127,11 +127,13 @@
 6 - Print ou export do dashboard/log da ferramenta usada, comprovando os números da tabela.
 
    Complexo:
+   
    <img width="600" height="600" alt="Prompt1Enviado" src="https://github.com/ViniciusZamoraFernandes/TesteComplexo/blob/main/TotalTokensComplexo.png" />
    
    Fonte: <https://github.com/ViniciusZamoraFernandes/TesteComplexo/blob/main/AI_USAGE.md>   
    
    Simples:
+   
    <img width="600" height="600" alt="Prompt1Enviado" src="https://github.com/ViniciusZamoraFernandes/TesteComplexo/blob/main/TokensSimples.png" />   
    
    Fonte: <https://github.com/Leopqs/TrabalhoTecnologiasEmergentes1/blob/main/CUSTOS_GEMINI.md>
