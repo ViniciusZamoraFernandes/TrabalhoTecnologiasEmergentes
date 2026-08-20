@@ -92,9 +92,11 @@
    Considere este texto como o System Prompt oficial do experimento e mantenha seu conteúdo válido durante as próximas chamadas desta sessão.
 
    Prompt 1 enviado:
+   
    <img width="600" height="600" alt="Prompt1Enviado" src="https://github.com/ViniciusZamoraFernandes/TesteComplexo/blob/main/Prompt1Enviado.png" />
 
    Prompt 1 resposta:
+   
    <img width="600" height="600" alt="Prompt1Enviado" src="https://github.com/ViniciusZamoraFernandes/TesteComplexo/blob/main/RespostaPrompt1.png" />   
 
    
@@ -103,14 +105,18 @@
    mostrar explicitamente como determinados requisitos deveriam se transformar em comportamentos do sistema, reduzindo ambiguidades.
 
    Evidência Few-Shot:
+   
    <img width="600" height="600" alt="Prompt1Enviado" src="https://github.com/ViniciusZamoraFernandes/TesteComplexo/blob/main/Few-Show.png" />   
 
 
 4 - O teste de curadoria de contexto: as duas versões do prompt (arquivo inteiro vs. trecho) e a comparação de tokens. Com evidências.
+
    Prompt complexo:
+   
    <img width="600" height="600" alt="Prompt1Enviado" src="https://github.com/ViniciusZamoraFernandes/TesteComplexo/blob/main/Prompt1Enviado.png" />
 
    Prompt simples:
+   
    <img width="600" height="600" alt="Prompt1Enviado" src="https://github.com/Leopqs/TrabalhoTecnologiasEmergentes1/blob/main/Prompt1Enviado.jpeg" />
 
 5 - Tabela com todas as chamadas (de entrada) feitas: tokens de entrada, tokens de saída, custo estimado por chamada, custo total da sessão. Com evidências.
@@ -138,6 +144,8 @@
 
 8 - Nome e RA de todos os alunos que participaram.
    Vinicius Zamora Fernandes.  RA: 23003800-2
+   
    Leonardo Enz Pazin.         RA: 23011726-2
+   
    Bruno Novodovoski.          RA: 23175971-2
 
