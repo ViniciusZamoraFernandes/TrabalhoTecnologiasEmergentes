@@ -109,19 +109,13 @@
 
 4 - O teste de curadoria de contexto: as duas versões do prompt (arquivo inteiro vs. trecho) e a comparação de tokens. Com evidências.
    Prompt complexo:
-      <img width="600" height="600" alt="Prompt1Enviado" src="https://github.com/ViniciusZamoraFernandes/TesteComplexo/blob/main/Prompt1Enviado.png" />
+   <img width="600" height="600" alt="Prompt1Enviado" src="https://github.com/ViniciusZamoraFernandes/TesteComplexo/blob/main/Prompt1Enviado.png" />
 
    Prompt simples:
-      <img width="600" height="600" alt="Prompt1Enviado" src="https://github.com/Leopqs/TrabalhoTecnologiasEmergentes1/blob/main/Prompt1Enviado.jpeg" />
+   <img width="600" height="600" alt="Prompt1Enviado" src="https://github.com/Leopqs/TrabalhoTecnologiasEmergentes1/blob/main/Prompt1Enviado.jpeg" />
 
 5 - Tabela com todas as chamadas (de entrada) feitas: tokens de entrada, tokens de saída, custo estimado por chamada, custo total da sessão. Com evidências.
-   |   Critério	   |     Teste complexo	 |   Teste simples|
-   __________________________________________________________
-   Tokens de entrada	     63.836	              450
-   Tokens de saída	     18.420	              280
-   Tokens totais	        82.256	              730
-   Custo hipotético	   US$ 0,010314	      US$ 0,0002355
-   Contexto fornecido	  Muito alto	       Mínimo
+<img width="600" height="600" alt="Prompt1Enviado" src="https://github.com/ViniciusZamoraFernandes/TesteComplexo/blob/main/TabelaTokens.png" />
 
 
 6 - Print ou export do dashboard/log da ferramenta usada, comprovando os números da tabela.
@@ -129,7 +123,7 @@
       <img width="600" height="600" alt="Prompt1Enviado" src="https://github.com/ViniciusZamoraFernandes/TesteComplexo/blob/main/TotalTokensComplexo.png" />
 
    Simples:
-      <img width="600" height="600" alt="Prompt1Enviado" src="https://github.com/ViniciusZamoraFernandes/TesteComplexo/blob/main/TokensSimples.png" />   
+   <img width="600" height="600" alt="Prompt1Enviado" src="https://github.com/ViniciusZamoraFernandes/TesteComplexo/blob/main/TokensSimples.png" />   
          Fonte: <https://github.com/Leopqs/TrabalhoTecnologiasEmergentes1/blob/main/CUSTOS_GEMINI.md>
          
 7 - Link da URL publicada.
