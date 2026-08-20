@@ -1,5 +1,6 @@
 1 - O que o projeto faz e qual opção você escolheu (projeto de estudo, pessoal, feature da Escola de TI, etc.).
-O projeto é o UniClass, um protótipo funcional de um sistema web de gerenciamento acadêmico, com foco principal no perfil do professor. Ele permite gerenciar turmas e alunos, realizar chamadas, registrar o conteúdo ministrado, lançar notas, consultar horários e calendário, visualizar notificações e gerenciar informações do perfil. A chamada é a funcionalidade principal, permitindo marcar presença, ausência ou falta justificada, salvar o registro e consultar o histórico posteriormente.
+   
+   O projeto é o UniClass, um protótipo funcional de um sistema web de gerenciamento acadêmico, com foco principal no perfil do professor. Ele permite gerenciar turmas e alunos, realizar chamadas, registrar o conteúdo ministrado, lançar notas, consultar horários e calendário, visualizar notificações e gerenciar informações do perfil. A chamada é a funcionalidade principal, permitindo marcar presença, ausência ou falta justificada, salvar o registro e consultar o histórico posteriormente.
 
 2 - O system prompt usado, completo.
    PROMPT 1 — SYSTEM PROMPT
