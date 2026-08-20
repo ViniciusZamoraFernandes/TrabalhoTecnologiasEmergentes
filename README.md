@@ -114,14 +114,18 @@
    <img width="600" height="600" alt="Prompt1Enviado" src="https://github.com/Leopqs/TrabalhoTecnologiasEmergentes1/blob/main/Prompt1Enviado.jpeg" />
 
 5 - Tabela com todas as chamadas (de entrada) feitas: tokens de entrada, tokens de saída, custo estimado por chamada, custo total da sessão. Com evidências.
+
 <img width="600" height="600" alt="Prompt1Enviado" src="https://github.com/ViniciusZamoraFernandes/TesteComplexo/blob/main/TabelaTokens.png" />
 
 
 6 - Print ou export do dashboard/log da ferramenta usada, comprovando os números da tabela.
+
    Complexo:
-      <img width="600" height="600" alt="Prompt1Enviado" src="https://github.com/ViniciusZamoraFernandes/TesteComplexo/blob/main/TotalTokensComplexo.png" />
+   
+   <img width="600" height="600" alt="Prompt1Enviado" src="https://github.com/ViniciusZamoraFernandes/TesteComplexo/blob/main/TotalTokensComplexo.png" />
 
    Simples:
+   
    <img width="600" height="600" alt="Prompt1Enviado" src="https://github.com/ViniciusZamoraFernandes/TesteComplexo/blob/main/TokensSimples.png" />   
          Fonte: <https://github.com/Leopqs/TrabalhoTecnologiasEmergentes1/blob/main/CUSTOS_GEMINI.md>
          
