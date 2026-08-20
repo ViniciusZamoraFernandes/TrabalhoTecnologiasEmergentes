@@ -147,7 +147,9 @@
 
 8 - Nome e RA de todos os alunos que participaram.
 
-   Vinicius Zamora Fernandes.  RA: 23003800-2
-   Leonardo Enz Pazin.         RA: 23011726-2
-   Bruno Novodovoski.          RA: 23175971-2
+  Vinicius Zamora Fernandes.  RA: 23003800-2
+  
+  Leonardo Enz Pazin.         RA: 23011726-2
+  
+  Bruno Novodovoski.          RA: 23175971-2
 
