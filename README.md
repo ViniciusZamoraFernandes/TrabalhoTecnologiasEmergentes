@@ -97,7 +97,7 @@
 
    Prompt 1 resposta:
    
-   <img width="600" height="600" alt="Prompt1Enviado" src="https://github.com/ViniciusZamoraFernandes/TesteComplexo/blob/main/RespostaPrompt1.png" />   
+   <img width="600" height="600" alt="Prompt1Enviado" src="https://github.com/ViniciusZamoraFernandes/TesteComplexo/blob/main/RespostaPrompt1.jpg" />   
 
    
 3 - A técnica aplicada (few-shot ou chain-of-thought) e por que você escolheu ela. Com evidências.
