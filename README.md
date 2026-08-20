@@ -138,8 +138,8 @@
 
    
 7 - Link da URL publicada.
-   Complexo: <https://uniclass.ai.studio/>  
-   Simples: <https://portalprofessor06082005.ai.studio>
+Complexo: <https://uniclass.ai.studio/>  
+Simples: <https://portalprofessor06082005.ai.studio>
 
 
 8 - Nome e RA de todos os alunos que participaram.
