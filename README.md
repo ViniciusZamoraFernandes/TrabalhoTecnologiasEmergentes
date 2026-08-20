@@ -97,7 +97,7 @@
 
    Prompt 1 resposta:
    
-   <img width="600" height="600" alt="Prompt1Enviado" src="https://github.com/ViniciusZamoraFernandes/TesteComplexo/blob/main/RespostaPrompt1.jpg" />   
+   <img width="600" height="600" alt="Prompt1Enviado" src="https://github.com/ViniciusZamoraFernandes/TesteComplexo/blob/main/RespostaPrompt1.png" />   
 
    
 3 - A técnica aplicada (few-shot ou chain-of-thought) e por que você escolheu ela. Com evidências.
@@ -117,7 +117,7 @@
 
    Prompt simples:
    
-   <img width="600" height="600" alt="Prompt1Enviado" src="https://github.com/Leopqs/TrabalhoTecnologiasEmergentes1/blob/main/Prompt1Enviado.jpeg" />
+   <img width="600" height="600" alt="Prompt1Enviado" src="https://github.com/Leopqs/TrabalhoTecnologiasEmergentes1/blob/main/Prompt1Enviado.jpg" />
 
 5 - Tabela com todas as chamadas (de entrada) feitas: tokens de entrada, tokens de saída, custo estimado por chamada, custo total da sessão. Com evidências.
 
